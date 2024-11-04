@@ -1,0 +1,30 @@
+{
+    "id": "dransky-wh40k_dark_heresy_landing_page",
+    "title": "Warhammer40K Dark Heresy LP Free by dransky",
+    "description": "Landing page I created for my Dark Heresy Campaign",
+    "version": "1.0.7",
+    "authors": [
+     {
+      "name": "dransky's battlemaps",
+      "discord": "https://discord.gg/VyC2jsvEBb",
+      "url": "https://dranskybattlemaps.com/",
+      "flags": {}
+      }
+    ],
+    "compatibility": {
+       "minimum": 10,
+       "verified": 11
+    },
+    "url": "www.patreon.com/dransky",
+    "packs": [
+        {
+            "name": "dransky-wh40k_dark_heresy_landing_page",
+            "label": "Dark Heresy Landing P",
+            "path": "./packs/dransky-wh40k_dark_heresy_landing_page.db",
+	    "type": "Scene",
+            "entity": "Scene"
+        }   
+    ],
+    "manifest": "https://www.dropbox.com/s/m5ezjugbk8cklgs/module.json?dl=1",
+    "download": "https://www.dropbox.com/s/q1l14ya8ak6f3dy/dransky-wh40k_dark_heresy_landing_page.zip?dl=1"
+  }
